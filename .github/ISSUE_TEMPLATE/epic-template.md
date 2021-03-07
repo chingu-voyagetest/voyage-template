@@ -3,7 +3,7 @@ name: Epic template
 about: Epics represent features that take more than one Sprint to complete. Epics
   may contain User Stories & Tasks
 title: ''
-labels: ''
+labels: epic
 assignees: ''
 
 ---

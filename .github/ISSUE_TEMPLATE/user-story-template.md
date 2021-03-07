@@ -3,7 +3,7 @@ name: User Story template
 about: User Stories represent features that can be completed in a single Sprint, but
   which contain subordinate tasks.
 title: ''
-labels: ''
+labels: user_story
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Task template
 about: Tasks are small activities that can be completed in a single Sprint
 title: ''
-labels: ''
+labels: task
 assignees: ''
 
 ---
