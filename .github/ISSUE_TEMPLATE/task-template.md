@@ -1,6 +1,6 @@
 ---
 name: Task template
-about: Tasks are small activities that can be completed in a single Sprint
+about: Tasks are small units of work that can be completed in a single sprint
 title: ''
 labels: task
 assignees: ''

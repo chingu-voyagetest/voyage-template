@@ -1,7 +1,7 @@
 ---
 name: User Story template
-about: User Stories represent features that can be completed in a single Sprint, but
-  which contain subordinate tasks.
+about: User Stories are features supporting user requirements that can be completed
+  in a single sprint
 title: ''
 labels: user_story
 assignees: ''

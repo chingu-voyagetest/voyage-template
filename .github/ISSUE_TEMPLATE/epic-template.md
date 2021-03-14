@@ -1,7 +1,6 @@
 ---
 name: Epic template
-about: Epics represent features that take more than one Sprint to complete. Epics
-  may contain User Stories & Tasks
+about: An epic represents functionality that will span multiple sprints
 title: ''
 labels: epic
 assignees: ''
